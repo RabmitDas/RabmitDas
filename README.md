@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RabmitDas
-- 👀 I’m interested in Neuroscience and Biocomputation
+- 👀 I’m interested in Neuroscience and Computational System Biology
 - 🌱 I’m currently learning Neural Networks and its application in biology
 - 💞️ I’m looking to collaborate on Biological Neural Networks 
 - 📫 How to reach me Email: rabmit.das@niser.ac.in
