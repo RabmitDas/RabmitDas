@@ -8,7 +8,7 @@ I’m passionate about combining biology, computation, and systems modeling to u
 
 🔭 Currently exploring Neural Networks and their applications in biology — from molecular interaction prediction to microbiome-based disease diagnostics.
 
-💡 Interested in Flux Balance Analysis (FBA), multi-omics data integration, and biological network algorithms.
+💡 Interested in Mathematical modelling, multi-omics data integration, and biological network algorithms.
 
 🧠 Fascinated by how biological systems compute — aiming to bridge biological neural networks and artificial intelligence.
 
@@ -28,7 +28,7 @@ Multi-omics data analytics and visualization
 
 🧫 Microbiome–Metabolome Interaction Analysis: Building predictive models for disease diagnosis using conserved microbial taxa.
 
-🧮 Parameterised Algorithms in Biology: Applying iterative compression and color-coding techniques to biological network problems.
+🧮 Modelling Algorithms in Biology.
 
 📚 Publications
 
@@ -39,7 +39,7 @@ Multi-omics data analytics and visualization
 🧰 Tech Stack
 
 Languages & Tools:
-Python • R • Bash • QIIME2 • Pandas • Scikit-learn • TensorFlow • PyTorch • MetabolicFluxTools
+Python • R • Bash • QIIME2 • Pandas • Scikit-learn • TensorFlow • PyTorch • Linux
 
 Domains:
 Bioinformatics • Computational Systems Biology • Multi-omics • Machine Learning • Network Biology
