@@ -31,11 +31,15 @@ Multi-omics data analytics and visualization
 🧮 Modelling Algorithms in Biology.
 
 📚 Publications
+
 • Das, R., De, A. J., Baidya, A. K., & Aich, P. (Under Review). MASLD at the Crossroads of Genetic Predisposition, Epigenetic Regulation, and Dietary Factors.
+
 • Das, A., Das, R., Das, A., & Aich, P. (Under Review). Microbiome–Metabolome Signatures and Behavioral Alterations in a Progressive MPTP-Induced Mouse Model of Parkinson’s Disease.
 
 🧾 Under preparation.
+
 • Das, R., Mourouganad, P., & Aich, P. (Under Preparation). Comparative Machine Learning Analysis of Serum Metabolomics and Multi-Class Disease Discrimination: Implications for Proteome Metabolome Integration.
+
 • Panda, S. S., Das, R., & Aich, P. (Under Preparation). Gut Microbiota–Metabolite Crosstalk Governs Host Physiological Adaptation: A Systems Biochemical Study.
 
 🧩 Currently contributing as a data analyst on multi-omics and microbiome research articles.
